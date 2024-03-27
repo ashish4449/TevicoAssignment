@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-03-28T01:30:50 IST" name="Suite" finished-at="2024-03-28T01:31:44 IST" duration-ms="54019">
+    <groups>
+    </groups>
+    <test started-at="2024-03-28T01:30:50 IST" name="Test" finished-at="2024-03-28T01:31:44 IST" duration-ms="54019">
+      <class name="base">
+        <test-method is-config="true" signature="extentConfig()[pri:0, instance:base@3fbfa96]" started-at="2024-03-28T01:30:50 IST" name="extentConfig" finished-at="2024-03-28T01:30:50 IST" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- extentConfig -->
+        <test-method signature="first()[pri:0, instance:base@3fbfa96]" started-at="2024-03-28T01:30:50 IST" name="first" finished-at="2024-03-28T01:31:06 IST" duration-ms="16624" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- first -->
+        <test-method signature="second()[pri:0, instance:base@3fbfa96]" started-at="2024-03-28T01:31:06 IST" name="second" finished-at="2024-03-28T01:31:34 IST" duration-ms="27390" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- second -->
+        <test-method signature="third()[pri:0, instance:base@3fbfa96]" started-at="2024-03-28T01:31:34 IST" name="third" finished-at="2024-03-28T01:31:44 IST" duration-ms="9954" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- third -->
+      </class> <!-- base -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
